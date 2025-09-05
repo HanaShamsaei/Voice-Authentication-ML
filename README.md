@@ -32,9 +32,10 @@ The goal is to explore **machine learning approaches for voice-based authenticat
 - Each recording may vary in length and requires preprocessing before feature extraction.
 - Data is split into training (~75%) and testing (~25%).
 
-### Dataset Link
-The audio files can be accessed from the following Google Drive link:  
-[Google Drive Dataset](https://drive.google.com/drive/folders/1pq_jGqdBda_QjNnK2yAzD4N2grbPF8Rs?usp=sharing)
+### Dataset Availability
+Due to the **large volume of audio files**, the dataset has not been uploaded to this repository.  
+To run the project, please download the audio files separately and update the `audio_directory` variable in the code to point to your local dataset path.
+
 
 **Note:**  
 To run the code correctly, update the `audio_directory` variable in the scripts to the path where you store the downloaded audio files.
