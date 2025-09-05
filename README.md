@@ -34,7 +34,7 @@ The goal is to explore **machine learning approaches for voice-based authenticat
 
 ### Dataset Availability
 Due to the **large volume of audio files**, the dataset has not been uploaded to this repository.  
-To run the project, please download the audio files separately and update the `audio_directory` variable in the code to point to your local dataset path.
+To run the project, please download your own audio files with the required naming format separately and update the `audio_directory` variable in the code to point to your local dataset path.
 
 
 **Note:**  
